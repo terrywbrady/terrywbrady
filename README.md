@@ -23,7 +23,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 # Presentation Notes
 
 ### [UC Berkeley Cloud Meetup](https://www.meetup.com/ucberkeley_cloudmeetup/events/271775058) - June 2020
-- [Presigned URL's in CDL's Merritt System](https://docs.google.com/presentation/d/e/2PACX-1vSsDcLXyHoMe-ZMdhbqh38x-eIhp_GSwT37X3Hmyutmmuqv0nDGLlUNeWbCTjTNXYyFRC9X8c45Fp7j/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [Presigned URLs in CDL's Merritt System](https://docs.google.com/presentation/d/e/2PACX-1vSsDcLXyHoMe-ZMdhbqh38x-eIhp_GSwT37X3Hmyutmmuqv0nDGLlUNeWbCTjTNXYyFRC9X8c45Fp7j/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ### [OpenRepositories 2019](http://www.or2019.net/) - June 2019
 
