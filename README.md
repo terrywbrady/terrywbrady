@@ -25,6 +25,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 ### [UC Berkeley Cloud Meetup](https://www.meetup.com/ucberkeley_cloudmeetup/events/271775058) - June 2020
 - [Presigned URLs in CDL's Merritt System](https://docs.google.com/presentation/d/e/2PACX-1vSsDcLXyHoMe-ZMdhbqh38x-eIhp_GSwT37X3Hmyutmmuqv0nDGLlUNeWbCTjTNXYyFRC9X8c45Fp7j/pub?start=false&loop=false&delayms=3000&slide=id.p)
   - [Exported Slides](https://github.com/terrywbrady/info/blob/master/resources/CDL%20-%20Presigned%20URLs%20in%20Merritt%20Preservation%20System.pptx?raw=true)
+  - [Meetup Recording](https://cto.berkeley.edu/cloud/community/meetup/2020-07-28)
 
 ### [OpenRepositories 2019](http://www.or2019.net/) - June 2019
 
