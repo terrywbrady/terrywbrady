@@ -23,7 +23,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 # Presentation Notes
 
 ### [Digital Preservation Coalition WeMissiPres 2020](https://www.dpconline.org/docs/miscellaneous/events/2020-events/2317-wemissipres-draft-prog-day-2-1/file)
-- Brightening an Archive: Streamlining access to OA datasets
+- [Brightening an Archive: Streamlining access to OA datasets](https://zenodo.org/record/4047092#.X2u_P5NKilM)
  (co-presenter)
 ### [National Digital Stewardship Alliance Infrastructure Interest Group](https://ndsa.org/groups/infrastructure/) September 2020
 - [Containers and Container-ish Solutions for the Merritt Preservation System
