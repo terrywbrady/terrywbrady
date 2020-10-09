@@ -25,11 +25,12 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 ### [Digital Preservation Coalition WeMissiPres 2020](https://www.dpconline.org/docs/miscellaneous/events/2020-events/2317-wemissipres-draft-prog-day-2-1/file)
 - [Brightening an Archive: Streamlining access to OA datasets](https://zenodo.org/record/4047092#.X2u_P5NKilM)
  (co-presenter)
+ - [Presentation Recording](https://youtu.be/kRkeYBN18NU?t=92)
 ### [National Digital Stewardship Alliance Infrastructure Interest Group](https://ndsa.org/groups/infrastructure/) September 2020
 - [Containers and Container-ish Solutions for the Merritt Preservation System
 ](https://docs.google.com/presentation/d/e/2PACX-1vTuaRX6V9RZBZxl6CSG8VSNqCrlWZgwEsjz_8AhYVeyDFZSdSZ-dJGdPvCnM3UVOLV0pYI3H1c48BOc/pub?start=false&loop=false&delayms=3000) (co-presenter)
-- [Exported Slides](https://github.com/terrywbrady/info/blob/master/resources/NDSA%20Infrastructure%20Sep%2021,%202020%20-%20Containers%20and%20Container-ish%20Solutions%20for%20the%20Merritt%20Preservation%20System.pptx?raw=true)
-- [Presentation Recording](https://www.youtube.com/watch?v=smTIgUCRusU)
+  - [Exported Slides](https://github.com/terrywbrady/info/blob/master/resources/NDSA%20Infrastructure%20Sep%2021,%202020%20-%20Containers%20and%20Container-ish%20Solutions%20for%20the%20Merritt%20Preservation%20System.pptx?raw=true)
+  - [Presentation Recording](https://www.youtube.com/watch?v=smTIgUCRusU)
 ### [UC Berkeley Cloud Meetup](https://www.meetup.com/ucberkeley_cloudmeetup/events/271775058) - June 2020
 - [Presigned URLs in CDL's Merritt System](https://docs.google.com/presentation/d/e/2PACX-1vSsDcLXyHoMe-ZMdhbqh38x-eIhp_GSwT37X3Hmyutmmuqv0nDGLlUNeWbCTjTNXYyFRC9X8c45Fp7j/pub?start=false&loop=false&delayms=3000&slide=id.p) (co-presenter)
   - [Exported Slides](https://github.com/terrywbrady/info/blob/master/resources/CDL%20-%20Presigned%20URLs%20in%20Merritt%20Preservation%20System.pptx?raw=true)
