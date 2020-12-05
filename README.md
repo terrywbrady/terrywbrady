@@ -60,7 +60,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
   - [Webinar Video](https://duraspace.zoom.us/recording/share/kCDyG4ux5qVbvsYkau2h7_J3eb0nfvlWP9umNwmvVjCwIumekTziMw)
   - http://bit.ly/docker4rm
   - [Exported Slides](https://github.com/DSpace-Labs/DSpace-Docker-Images/raw/master/documentation/webinar/Webinar.pptx)
-  - [Markdown Presentation Source](https://github.com/DSpace-Labs/DSpace-Docker-Images/webinar/PITCHME.md)
+    - [Markdown Presentation Source](https://github.com/DSpace-Labs/DSpace-Docker-Images/blob/master/PITCHME.md)
 
 ### DSpace Developer Show and Tell - Aug 2018
 - [Running DSpace on Docker - Meeting Recording](https://wiki.duraspace.org/display/DSPACE/Dev+Show+and+Tell+-+Aug+28%2C+2018+-+1500UTC+-+DSpace+On+DockerHub)
@@ -86,12 +86,12 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
   - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/OR2018DevWorkspace.pptx)
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
-- [Online Slides](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/)
-  - [Exported Slides](https://github.com/terrywbrady/TutorialSolrAdmin/raw/master/PITCHME.pptx)
+- [Exported Slides](https://github.com/terrywbrady/TutorialSolrAdmin/raw/master/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/terrywbrady/TutorialSolrAdmin/blob/master/PITCHME.md)
 
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
-- [Online Slides](https://gitpitch.com/terrywbrady/restReportTutorial/)
-  - [Exported Slides](https://github.com/terrywbrady/restReportTutorial/raw/master/PITCHME.pptx)
+- [Exported Slides](https://github.com/terrywbrady/restReportTutorial/raw/master/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/terrywbrady/restReportTutorial/blob/master/PITCHME.md)
 - [Tutorial Resources](https://terrywbrady.github.io/restReportTutorial/intro)
 
 #### Poster: Common Workflow for Ingest into our Digital Preservation System
@@ -101,8 +101,8 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 ### [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
 
 #### Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
-- [Online Slides](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
-  - [Exported Slides](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/raw/master/PITCHME.pptx)
+- [Exported Slides](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/raw/master/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/blob/master/PITCHME.md)
 - [Tutorial Resources](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 - [Abstract](http://iiif.io/event/2018/washington/program/paper-1/)
 
@@ -116,21 +116,22 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 - [Abstract](http://iiif.io/event/2018/washington/program/paper-47/)
 
 ### DuraSpace Webinar - Making DSpace Your Own - Apr 2018
-  - [Online Slides](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
-    - [Exported Slides](https://github.com/DSpace-Labs/DSpace-rel-demo/raw/webinar/PITCHME.pptx)
+  - [Exported Slides](https://github.com/DSpace-Labs/DSpace-rel-demo/raw/webinar/PITCHME.pptx)
+    - [Markdown Presentation Source](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/master/PITCHME.md)
     - [Tutorial Assets](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/master/README.md#apr-2018-making-dspace-6-your-own-webinar)
   - [Webinar Video](https://www.slideshare.net/DuraSpace/42418-making-dspace-your-own-webinar-recording)
 
 ### DSpace Developer Show and Tell - Mar 2018
 - [DSpace Development on Codenvy](https://wiki.duraspace.org/display/DSPACE/Janitor+and+DSpace%2C+DSpace+Development+on+Codenvy+-+Mar+27%2C+2018+at+1500+UTC#JanitorandDSpace,DSpaceDevelopmentonCodenvy-Mar27,2018at1500UTC-DSpaceDevelopmentonCodenvy-)
-- [Online Slides](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
-  - [Exported Slides](https://github.com/DSpace-Labs/DSpace-codenvy/raw/master/PITCHME.pptx)
+- [Exported Slides](https://github.com/DSpace-Labs/DSpace-codenvy/raw/master/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/DSpace-Labs/DSpace-codenvy/blob/master/PITCHME.md)
 - Video: [Meeting Recording](https://youtu.be/Thdv7l-yHco?t=19m45s)
 
 ### IIIF Community Call, Dec 2017
 
-- [IIIF Manifest Prototyping at Georgetown](https://gitpitch.com/Georgetown-University-Libraries/testManifests)
+- IIIF Manifest Prototyping at Georgetown
   - [Exported Slides](https://github.com/Georgetown-University-Libraries/testManifests/raw/master/PITCHME.pptx)
+    - [Markdown Presentation Source](https://github.com/Georgetown-University-Libraries/testManifests/master/PITCHME.md)
   - [Tutorial: Generating IIIF Manifests with FileAnalyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
 ### Academic Preservation Trust Bagging Webinar, Sep 2017
@@ -140,8 +141,8 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 ### Seattle Java User's Group Meetup, Sep 2017
 
 #### Prototyping with the International Image Interoperability Framework (IIIF)
-- [Online Slides](https://gitpitch.com/terrywbrady/iiif-seaJug)
-  - [Exported Slides](https://github.com/terrywbrady/iiif-seaJug/raw/master/PITCHME.pptx)
+- [Exported Slides](https://github.com/terrywbrady/iiif-seaJug/raw/master/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/terrywbrady/iiif-seaJug/master/PITCHME.md)
 - Meetup Details: https://www.meetup.com/seajug/events/243151373/
 - [Presentation Video](https://vimeo.com/235471110)
 
@@ -149,14 +150,17 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 - Conference Organizer, Host
   - [Meeting Links and Notes](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/README.md)
     - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/PITCHME.pptx)
+      - [Markdown Presentation Source](https://github.com/terrywbrady/dspaceUserMeeting/master/PITCHME.md)
 - Presenter
-  - [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)
+  - Contributing to DSpace
     - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/contributingToDSpace/PITCHME.pptx)
-  - [DSpace and IIIF](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceIIIF)
+    - [Markdown Presentation Source](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/contributingToDSpace/PITCHME.md)
+  - DSpace and IIIF
     - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/dspaceIIIF/PITCHME.pptx)
-  - [Building Customized Collections in DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=customizedCollections)
+    - [Markdown Presentation Source](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/dspaceIIIF/PITCHME.md)
+  - Building Customized Collections in DSpace
     - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/customizedCollections/PITCHME.pptx)
-
+    - [Markdown Presentation Source](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/customizedCollections/PITCHME.md)
 ### National Digital Stewardship Enrichment Session at Georgetown University
 - [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vSyz4WwvuD2FaYCLYUsbGYR5HqY6IOonzuCEAB92SMsNtzTHR1KgX9DpKEH5-qh7wd5CsRzqonafI6p/pub?start=false&loop=false&delayms=3000)
   - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/NDSR_APT_Meeting.pptx)
