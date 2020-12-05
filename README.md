@@ -56,10 +56,11 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
   - http://bit.ly/as2dspace
 
 ### DuraSpace Community Webinar - Mar 2019
-- [DSpace Docker for Repository Managers - Running Any Version of DSpace from Your Desktop](https://gitpitch.com/DSpace-Labs/DSpace-Docker-Images/webinar)
+- DSpace Docker for Repository Managers - Running Any Version of DSpace from Your Desktop
   - [Webinar Video](https://duraspace.zoom.us/recording/share/kCDyG4ux5qVbvsYkau2h7_J3eb0nfvlWP9umNwmvVjCwIumekTziMw)
   - http://bit.ly/docker4rm
   - [Exported Slides](https://github.com/DSpace-Labs/DSpace-Docker-Images/raw/master/documentation/webinar/Webinar.pptx)
+  - [Markdown Presentation Source](https://github.com/DSpace-Labs/DSpace-Docker-Images/webinar/PITCHME.md)
 
 ### DSpace Developer Show and Tell - Aug 2018
 - [Running DSpace on Docker - Meeting Recording](https://wiki.duraspace.org/display/DSPACE/Dev+Show+and+Tell+-+Aug+28%2C+2018+-+1500UTC+-+DSpace+On+DockerHub)
