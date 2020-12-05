@@ -117,7 +117,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 ### DuraSpace Webinar - Making DSpace Your Own - Apr 2018
   - [Exported Slides](https://github.com/DSpace-Labs/DSpace-rel-demo/raw/webinar/PITCHME.pptx)
-    - [Markdown Presentation Source](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/master/PITCHME.md)
+    - [Markdown Presentation Source](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/webinar/PITCHME.md)
     - [Tutorial Assets](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/master/README.md#apr-2018-making-dspace-6-your-own-webinar)
   - [Webinar Video](https://www.slideshare.net/DuraSpace/42418-making-dspace-your-own-webinar-recording)
 
@@ -131,7 +131,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 - IIIF Manifest Prototyping at Georgetown
   - [Exported Slides](https://github.com/Georgetown-University-Libraries/testManifests/raw/master/PITCHME.pptx)
-    - [Markdown Presentation Source](https://github.com/Georgetown-University-Libraries/testManifests/master/PITCHME.md)
+    - [Markdown Presentation Source](https://github.com/Georgetown-University-Libraries/testManifests/blob/master/PITCHME.md)
   - [Tutorial: Generating IIIF Manifests with FileAnalyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
 ### Academic Preservation Trust Bagging Webinar, Sep 2017
@@ -142,7 +142,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 #### Prototyping with the International Image Interoperability Framework (IIIF)
 - [Exported Slides](https://github.com/terrywbrady/iiif-seaJug/raw/master/PITCHME.pptx)
-  - [Markdown Presentation Source](https://github.com/terrywbrady/iiif-seaJug/master/PITCHME.md)
+  - [Markdown Presentation Source](https://github.com/terrywbrady/iiif-seaJug/blob/master/PITCHME.md)
 - Meetup Details: https://www.meetup.com/seajug/events/243151373/
 - [Presentation Video](https://vimeo.com/235471110)
 
@@ -150,7 +150,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 - Conference Organizer, Host
   - [Meeting Links and Notes](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/README.md)
     - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/PITCHME.pptx)
-      - [Markdown Presentation Source](https://github.com/terrywbrady/dspaceUserMeeting/master/PITCHME.md)
+      - [Markdown Presentation Source](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/PITCHME.md)
 - Presenter
   - Contributing to DSpace
     - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/contributingToDSpace/PITCHME.pptx)
@@ -169,37 +169,37 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 ### Seattle University Web Developers Meetup, Jul 2017
 
 #### Introduction to Google Apps Script
-- [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
-  - [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/seattleu/PITCHME.pptx)
+- [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/seattleu/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/terrywbrady/UsingAppScript/blob/seattleu/PITCHME.md)
 - Meetup Details: https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/239490761/
 
 ### Code4Lib 2017
 
 #### Developing Library Applications in Google Sheets with Google Apps Script
 
-- [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/Code4Lib?grs=github&t=white)
-  - [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/Code4Lib/PITCHME.pptx)
+- [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/Code4Lib/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/terrywbrady/UsingAppScript/blob/Code4Lib/PITCHME.md)
 - [Workshop Details](http://2017.code4lib.org/workshops/Developing-Library-Applications-in-Google-Sheets-with-Google-Apps-Script)
 
 
 ### SeattleJS Jan 2017 Meetup
 
 #### Building Simple Applications With Google Apps Script
-- [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/SeattleJs?grs=github&t=white)
-  - [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/seattlejs/PITCHME.pptx)
+- [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/seattlejs/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/terrywbrady/UsingAppScript/blob/seattlejs/PITCHME.md)
 - [SeattleJS Jan 2017 Meetup Event](https://www.meetup.com/seattlejs/events/231089467/)
 
 ### Code4Lib BC 2016
 
 #### Building Quick and Dirty Library Tools with Google Apps Script
 - [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRTF6lFyXhN6lfL-0Y_o8fJRf4BLCKSizjvX1jTVGaKdt65no4XUy9MippKhJuVrPs802KBJXrgSxuB/pub?start=false&loop=false&delayms=3000)
-  - [Tutorial Slides](https://gitpitch.com/terrywbrady/UsingAppScript/master?grs=github&t=white)
-    - [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/master/PITCHME.pptx)
+  - [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/master/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/terrywbrady/UsingAppScript/blob/master/PITCHME.md)
 - [Conference Site](https://wiki.code4lib.org/BC)
 
 #### A Single Page Web App to Inventory 900,000 Books!
-- [Online Slides](https://gitpitch.com/Georgetown-University-Libraries/BarcodeInventory/master?grs=github&t=white)
-  - [Exported Slides](https://github.com/Georgetown-University-Libraries/BarcodeInventory/raw/master/PITCHME.pptx)
+- [Exported Slides](https://github.com/Georgetown-University-Libraries/BarcodeInventory/raw/master/PITCHME.pptx)
+  - [Markdown Presentation Source](https://github.com/Georgetown-University-Libraries/BarcodeInventory/blob/master/PITCHME.md)
 - https://github.com/Georgetown-University-Libraries/BarcodeInventory
 - [Google Slides - Deprecated](https://docs.google.com/presentation/d/e/2PACX-1vRSBR2wWnQj4D2MJ9qGH3MHtdDJhV8PrfOZfhYXN0qhtng1Obtlu7DKZISH4AljRDSwoznnZNqqgC1Z/pub?start=false&loop=false&delayms=3000)
 
