@@ -8,6 +8,8 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 - California Digital Library - University of California Curation Center
   - [Merritt System](https://merritt.cdlib.org/)
   - https://github.com/cdluc3
+  - [Merritt Docker Stack](https://github.com/CDLUC3/merritt-docker)
+  - [Merritt Admin Tool - Lambda Query Tool](https://github.com/CDLUC3/mrt-admin-lambda)
 - Georgetown University Library
   - [Georgetown University Libraries Projects/Open Source Projects](http://georgetown-university-libraries.github.io/)
   - [DSpace](https://github.com/DSpace/DSpace)
