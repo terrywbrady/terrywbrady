@@ -7,6 +7,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 # Open Source Projects
 - California Digital Library - University of California Curation Center
   - [Merritt System](https://merritt.cdlib.org/)
+  - [Docker Tutorial](https://cdluc3.github.io/docker-tutorial/)
   - https://github.com/cdluc3
   - [Merritt Docker Stack](https://github.com/CDLUC3/merritt-docker)
   - [Merritt Admin Tool - Lambda Query Tool](https://github.com/CDLUC3/mrt-admin-lambda)
