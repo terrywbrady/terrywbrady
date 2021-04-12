@@ -22,11 +22,11 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Upcoming Presentations
 
-### Zentralbibliothek Zürich Library Science Talks - Apr 2021
-- Brightening an Archive – Streamlining Access to OA Datasets (co-presenter)
 
 # Presentation Notes
 
+### Zentralbibliothek Zürich Library Science Talks - Apr 2021
+- [Brightening an Archive – Streamlining Access to OA Datasets (co-presenter)](https://zenodo.org/record/4644768#.YHR1hRNKhhE)
 ### University of California AWS User Group - Mar 2021
 - [Deploying and Testing a Lambda as a Docker Image](https://docs.google.com/presentation/d/e/2PACX-1vSyJGq3zMb7blJ2L_UeTa30R3rGz4swRoQ3akK6W7gwFD6fjZr6nc1VNWGvZCMVkCR-HlaN7mBL97EH/pub?start=false&loop=false&delayms=3000)
 ### [Digital Preservation Coalition WeMissiPres 2020](https://www.dpconline.org/docs/miscellaneous/events/2020-events/2317-wemissipres-draft-prog-day-2-1/file)
