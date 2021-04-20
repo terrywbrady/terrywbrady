@@ -3,7 +3,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 - Working from Seattle, WA
 - [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
-- [Short Bio](shortBio.md)
+- [Short Bio](ShortBio.md)
 
 # Open Source Projects
 - California Digital Library - University of California Curation Center (UC3)
