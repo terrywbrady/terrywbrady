@@ -23,6 +23,11 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Upcoming Presentations
 
+### [DockerCon 2021](https://www.docker.com/dockercon-live/2021/) - May 2021
+- Constructing a Repository Test Strategy Built on Docker Containers
+
+### [Open Repositories 2021](https://or2021.openrepositories.org/) - Jun 2021
+- Deploying a Serverless Application as a Docker Image
 
 # Presentation Notes
 
