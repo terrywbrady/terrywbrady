@@ -32,7 +32,6 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 ### [DockerCon 2021](https://www.docker.com/dockercon-live/2021/) - May 2021
 - Constructing a Repository Test Strategy Built on Docker Containers
 - https://docker.events.cube365.net/dockercon-live/2021/content/Videos/haf5DG932qgXa9A62
-
 ### Zentralbibliothek Zürich Library Science Talks - Apr 2021
 - [Brightening an Archive – Streamlining Access to OA Datasets (co-presenter)](https://zenodo.org/record/4644768#.YHR1hRNKhhE)
 - [Event Page](https://www.zb.uzh.ch/en/events/livestream-library-science-talks-brady-lopatin-terrence-eric-university-of-california)
