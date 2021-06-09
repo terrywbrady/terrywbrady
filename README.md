@@ -26,25 +26,31 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 # Presentation Notes
 
 ### [Open Repositories 2021](https://or2021.openrepositories.org/) - Jun 2021
-- [Deploying a Serverless Application as a Docker Image](https://zenodo.org/record/4891797#.YMENYzZKhhE)
 - [Constructing a Repository Test Strategy Built on Docker Containers](https://zenodo.org/record/4891797#.YMENxzZKhhE)
+- [Deploying a Serverless Application as a Docker Image](https://zenodo.org/record/4891797#.YMENYzZKhhE)
+
 ### [DockerCon 2021](https://www.docker.com/dockercon-live/2021/) - May 2021
 - Constructing a Repository Test Strategy Built on Docker Containers
 - https://docker.events.cube365.net/dockercon-live/2021/content/Videos/haf5DG932qgXa9A62
+
 ### Zentralbibliothek Zürich Library Science Talks - Apr 2021
 - [Brightening an Archive – Streamlining Access to OA Datasets (co-presenter)](https://zenodo.org/record/4644768#.YHR1hRNKhhE)
 - [Event Page](https://www.zb.uzh.ch/en/events/livestream-library-science-talks-brady-lopatin-terrence-eric-university-of-california)
+
 ### University of California AWS User Group - Mar 2021
 - [Deploying and Testing a Lambda as a Docker Image](https://docs.google.com/presentation/d/e/2PACX-1vSyJGq3zMb7blJ2L_UeTa30R3rGz4swRoQ3akK6W7gwFD6fjZr6nc1VNWGvZCMVkCR-HlaN7mBL97EH/pub?start=false&loop=false&delayms=3000)
+
 ### [Digital Preservation Coalition WeMissiPres 2020](https://www.dpconline.org/docs/miscellaneous/events/2020-events/2317-wemissipres-draft-prog-day-2-1/file)
 - [Brightening an Archive: Streamlining access to OA datasets](https://zenodo.org/record/4047092#.X2u_P5NKilM)
  (co-presenter)
   - [Presentation Recording](https://youtu.be/kRkeYBN18NU?t=92)
+
 ### [National Digital Stewardship Alliance Infrastructure Interest Group](https://ndsa.org/groups/infrastructure/) September 2020
 - [Containers and Container-ish Solutions for the Merritt Preservation System
 ](https://docs.google.com/presentation/d/e/2PACX-1vTuaRX6V9RZBZxl6CSG8VSNqCrlWZgwEsjz_8AhYVeyDFZSdSZ-dJGdPvCnM3UVOLV0pYI3H1c48BOc/pub?start=false&loop=false&delayms=3000) (co-presenter)
   - [Exported Slides](https://github.com/terrywbrady/info/blob/master/resources/NDSA%20Infrastructure%20Sep%2021,%202020%20-%20Containers%20and%20Container-ish%20Solutions%20for%20the%20Merritt%20Preservation%20System.pptx?raw=true)
   - [Presentation Recording](https://www.youtube.com/watch?v=smTIgUCRusU)
+
 ### [UC Berkeley Cloud Meetup](https://www.meetup.com/ucberkeley_cloudmeetup/events/271775058) - June 2020
 - [Presigned URLs in CDL's Merritt System](https://docs.google.com/presentation/d/e/2PACX-1vSsDcLXyHoMe-ZMdhbqh38x-eIhp_GSwT37X3Hmyutmmuqv0nDGLlUNeWbCTjTNXYyFRC9X8c45Fp7j/pub?start=false&loop=false&delayms=3000&slide=id.p) (co-presenter)
   - [Exported Slides](https://github.com/terrywbrady/info/blob/master/resources/CDL%20-%20Presigned%20URLs%20in%20Merritt%20Preservation%20System.pptx?raw=true)
