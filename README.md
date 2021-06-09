@@ -23,12 +23,11 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Upcoming Presentations
 
-### [Open Repositories 2021](https://or2021.openrepositories.org/) - Jun 2021
-- Deploying a Serverless Application as a Docker Image
-- Constructing a Repository Test Strategy Built on Docker Containers
-
 # Presentation Notes
 
+### [Open Repositories 2021](https://or2021.openrepositories.org/) - Jun 2021
+- [Deploying a Serverless Application as a Docker Image](https://zenodo.org/record/4891797#.YMENYzZKhhE)
+- [Constructing a Repository Test Strategy Built on Docker Containers](https://zenodo.org/record/4891797#.YMENxzZKhhE)
 ### [DockerCon 2021](https://www.docker.com/dockercon-live/2021/) - May 2021
 - Constructing a Repository Test Strategy Built on Docker Containers
 - https://docker.events.cube365.net/dockercon-live/2021/content/Videos/haf5DG932qgXa9A62
