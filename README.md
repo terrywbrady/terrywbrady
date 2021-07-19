@@ -23,6 +23,13 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Upcoming Presentations
 
+### [UC Tech 2021](https://uctech.ucla.edu/schedule) - Aug 2021
+- [Constructing a System Test Strategy Built on Docker Containers](https://uctech.ucla.edu/sessions/constructing-system-test-strategy-built-docker-containers)
+
+### [UC Libraries Forum 2021](https://wiki.library.ucsf.edu/display/UCLF/UC+Libraries+Forum+Home) - Oct 2021
+- The Journey Towards Application Containers (co-presenter)
+- Workshop: Getting Started with Docker: Images, Containers and Simple Orchestration
+
 # Presentation Notes
 
 ### [Open Repositories 2021](https://or2021.openrepositories.org/) - Jun 2021
