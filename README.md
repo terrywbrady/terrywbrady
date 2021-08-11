@@ -23,15 +23,15 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Upcoming Presentations
 
-### [UC Tech 2021](https://uctech.ucla.edu/schedule) - Aug 2021
-- [Constructing a System Test Strategy Built on Docker Containers](https://docs.google.com/presentation/d/e/2PACX-1vQ_kWdpQvw9STbrEvX1_1oP5rAkuh5oCNoMkJwJOmP0A6E5HEaDMJKEAwXiQhEaaIYC03cT0VUCZtOd/pub?start=false&loop=false&delayms=3000)
-- [Session Description](https://uctech.ucla.edu/sessions/constructing-system-test-strategy-built-docker-containers)
-
 ### [UC Libraries Forum 2021](https://wiki.library.ucsf.edu/display/UCLF/UC+Libraries+Forum+Home) - Oct 2021
 - The Journey Towards Application Containers (co-presenter)
 - Workshop: Getting Started with Docker: Images, Containers and Simple Orchestration
 
 # Presentation Notes
+
+### [UC Tech 2021](https://uctech.ucla.edu/schedule) - Aug 2021
+- [Constructing a System Test Strategy Built on Docker Containers](https://docs.google.com/presentation/d/e/2PACX-1vQ_kWdpQvw9STbrEvX1_1oP5rAkuh5oCNoMkJwJOmP0A6E5HEaDMJKEAwXiQhEaaIYC03cT0VUCZtOd/pub?start=false&loop=false&delayms=3000)
+- [Session Description](https://uctech.ucla.edu/sessions/constructing-system-test-strategy-built-docker-containers)
 
 ### [Open Repositories 2021](https://or2021.openrepositories.org/) - Jun 2021
 - [Constructing a Repository Test Strategy Built on Docker Containers](https://zenodo.org/record/4891812#.YMIcpDZKiis)
