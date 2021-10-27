@@ -25,9 +25,13 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 ### [UC Libraries Forum 2021](https://wiki.library.ucsf.edu/display/UCLF/UC+Libraries+Forum+Home) - Oct 2021
 - The Journey Towards Application Containers (co-presenter)
-- Workshop: Getting Started with Docker: Images, Containers and Simple Orchestration
 
 # Presentation Notes
+
+### [UC Libraries Forum 2021](https://wiki.library.ucsf.edu/display/UCLF/UC+Libraries+Forum+Home) - Oct 2021
+- Workshop: Getting Started with Docker: Images, Containers and Simple Orchestration
+  - [Workshop Site](https://cdluc3.github.io/docker-tutorial/)
+  - [Workshop Source Code](https://github.com/CDLUC3/docker-tutorial/releases/tag/uc-libraries-forum)
 
 ### [UC Tech 2021](https://uctech.ucla.edu/schedule) - Aug 2021
 - [Constructing a System Test Strategy Built on Docker Containers](https://docs.google.com/presentation/d/e/2PACX-1vQ_kWdpQvw9STbrEvX1_1oP5rAkuh5oCNoMkJwJOmP0A6E5HEaDMJKEAwXiQhEaaIYC03cT0VUCZtOd/pub?start=false&loop=false&delayms=3000)
