@@ -30,7 +30,9 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 - Workshop: Getting Started with Docker: Images, Containers and Simple Orchestration
   - [Workshop Site](https://cdluc3.github.io/docker-tutorial/)
   - [Workshop Source Code](https://github.com/CDLUC3/docker-tutorial/tree/uc-libraries-forum)
+  - [Workshop Page](https://underline.io/events/197/sessions?eventSessionId=8150), Conference login required
 - The Journey Towards Application Containers (co-presenter)
+  - [Presentation Page](https://underline.io/events/197/sessions/8175/lecture/38146-the-journey-towards-application-containers), Conference login required
 
 ### [UC Tech 2021](https://uctech.ucla.edu/schedule) - Aug 2021
 - [Constructing a System Test Strategy Built on Docker Containers](https://docs.google.com/presentation/d/e/2PACX-1vQ_kWdpQvw9STbrEvX1_1oP5rAkuh5oCNoMkJwJOmP0A6E5HEaDMJKEAwXiQhEaaIYC03cT0VUCZtOd/pub?start=false&loop=false&delayms=3000)
@@ -42,7 +44,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 ### [DockerCon 2021](https://www.docker.com/dockercon-live/2021/) - May 2021
 - Constructing a Repository Test Strategy Built on Docker Containers
-- https://docker.events.cube365.net/dockercon-live/2021/content/Videos/haf5DG932qgXa9A62
+- [Presentation Recording](https://docker.events.cube365.net/dockercon-live/2021/content/Videos/haf5DG932qgXa9A62), Conference login required
 
 ### Zentralbibliothek Zürich Library Science Talks - Apr 2021
 - [Brightening an Archive – Streamlining Access to OA Datasets (co-presenter)](https://zenodo.org/record/4644768#.YHR1hRNKhhE)
