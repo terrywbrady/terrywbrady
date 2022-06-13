@@ -20,13 +20,15 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Upcoming Presentations
 
-### [UC Tech 2022](https://uctech.ucsd.edu/)
+### [UC Tech 2022](https://uctech.ucsd.edu/) - Aug 2022
 - Implementing System Health Assertions Spanning Multiple Microservices - Reinvigorating a Decade Old System (co-presenter)
 
 # Presentation Notes
 
 ### [Open Repositories 2022](https://or2022.openrepositories.org/) - Jun 2022
 - [Creating a Common Understanding of Your Repository State - Testing Assertions About Your Repository](https://docs.google.com/presentation/d/e/2PACX-1vQhf2el0iyId1lZqtv1B3NrhGAkUdlAqKMoiP_LIc2S7753B-fsBWC19Umb8LOQgbo86_Xx4tG0Qb97/pub?start=false&loop=false&delayms=3000)
+
+---
 
 ### [UC Libraries Forum 2021](https://wiki.library.ucsf.edu/display/UCLF/UC+Libraries+Forum+Home) - Oct 2021
 - Workshop: Getting Started with Docker: Images, Containers and Simple Orchestration
@@ -56,12 +58,14 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 ### University of California AWS User Group - Mar 2021
 - [Deploying and Testing a Lambda as a Docker Image](https://docs.google.com/presentation/d/e/2PACX-1vSyJGq3zMb7blJ2L_UeTa30R3rGz4swRoQ3akK6W7gwFD6fjZr6nc1VNWGvZCMVkCR-HlaN7mBL97EH/pub?start=false&loop=false&delayms=3000)
 
-### [Digital Preservation Coalition WeMissiPres 2020](https://www.dpconline.org/docs/miscellaneous/events/2020-events/2317-wemissipres-draft-prog-day-2-1/file)
+---
+
+### [Digital Preservation Coalition WeMissiPres 2020](https://www.dpconline.org/docs/miscellaneous/events/2020-events/2317-wemissipres-draft-prog-day-2-1/file) - Sep 2020
 - [Brightening an Archive: Streamlining access to OA datasets](https://zenodo.org/record/4047092#.X2u_P5NKilM)
  (co-presenter)
   - [Presentation Recording](https://youtu.be/kRkeYBN18NU?t=92)
 
-### [National Digital Stewardship Alliance Infrastructure Interest Group](https://ndsa.org/groups/infrastructure/) September 2020
+### [National Digital Stewardship Alliance Infrastructure Interest Group](https://ndsa.org/groups/infrastructure/) - Sep 2020
 - [Containers and Container-ish Solutions for the Merritt Preservation System
 ](https://docs.google.com/presentation/d/e/2PACX-1vTuaRX6V9RZBZxl6CSG8VSNqCrlWZgwEsjz_8AhYVeyDFZSdSZ-dJGdPvCnM3UVOLV0pYI3H1c48BOc/pub?start=false&loop=false&delayms=3000) (co-presenter)
   - [Exported Slides](https://github.com/terrywbrady/info/blob/master/resources/NDSA%20Infrastructure%20Sep%2021,%202020%20-%20Containers%20and%20Container-ish%20Solutions%20for%20the%20Merritt%20Preservation%20System.pptx?raw=true)
@@ -72,18 +76,15 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
   - [Exported Slides](https://github.com/terrywbrady/info/blob/master/resources/CDL%20-%20Presigned%20URLs%20in%20Merritt%20Preservation%20System.pptx?raw=true)
   - [Meetup Recording](https://cto.berkeley.edu/cloud/community/meetup/2020-07-28)
 
+---
+
 ### [OpenRepositories 2019](http://www.or2019.net/) - June 2019
 
 - Workshop: Docker for DSpace – Lowering the Barrier of Entry for New Contributors (co-presenter)
   - [Workshop Home Page](https://dspace-labs.github.io/DSpace-Docker-Images/documentation/workshop/info.html)
 - Linking ArchivesSpace Hierarchy to DSpace Digital Objects
   - [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vS2A1lDezk1q6cXoobnZhL3iefqLmN5-VUxo1dcMGWUlt362FvYpHb2y_gY_6YdAtYmPXbRTrzNfdlX/pub?start=false&loop=false&delayms=3000)
-  - [Exported Slides](https://github.com/
-  
-  
-  
-  
-  -University-Libraries/File-Analyzer/wiki/OR2019-ASpace.pptx)
+  - [Exported Slides](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/OR2019-ASpace.pptx)
 - DSpace 7 - Creating High-Quality Software: Update to Development Practices (co-presenter)
   - [Presentation Slides](https://www.slideshare.net/4Science/dspace-7-creating-highquality-software-update-to-development-practices)
 
@@ -104,6 +105,8 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
   - http://bit.ly/docker4rm
   - [Exported Slides](https://github.com/DSpace-Labs/DSpace-Docker-Images/raw/master/documentation/webinar/Webinar.pptx)
     - [Markdown Presentation Source](https://github.com/DSpace-Labs/DSpace-Docker-Images/blob/master/PITCHME.md)
+
+---
 
 ### DSpace Developer Show and Tell - Aug 2018
 - [Running DSpace on Docker - Meeting Recording](https://wiki.duraspace.org/display/DSPACE/Dev+Show+and+Tell+-+Aug+28%2C+2018+-+1500UTC+-+DSpace+On+DockerHub)
@@ -170,6 +173,8 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
   - [Markdown Presentation Source](https://github.com/DSpace-Labs/DSpace-codenvy/blob/master/PITCHME.md)
 - Video: [Meeting Recording](https://youtu.be/Thdv7l-yHco?t=19m45s)
 
+---
+
 ### IIIF Community Call, Dec 2017
 
 - IIIF Manifest Prototyping at Georgetown
@@ -232,6 +237,8 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
   - [Markdown Presentation Source](https://github.com/terrywbrady/UsingAppScript/blob/seattlejs/PITCHME.md)
 - [SeattleJS Jan 2017 Meetup Event](https://www.meetup.com/seattlejs/events/231089467/)
 
+---
+
 ### Code4Lib BC 2016
 
 #### Building Quick and Dirty Library Tools with Google Apps Script
@@ -245,6 +252,8 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
   - [Markdown Presentation Source](https://github.com/Georgetown-University-Libraries/BarcodeInventory/blob/master/PITCHME.md)
 - https://github.com/Georgetown-University-Libraries/BarcodeInventory
 - [Google Slides - Deprecated](https://docs.google.com/presentation/d/e/2PACX-1vRSBR2wWnQj4D2MJ9qGH3MHtdDJhV8PrfOZfhYXN0qhtng1Obtlu7DKZISH4AljRDSwoznnZNqqgC1Z/pub?start=false&loop=false&delayms=3000)
+
+---
 
 ### Seattle Java User's Group - November 2015
 - [DSpace: An Open Source Repository for Academic Libraries and Other Institutions](https://docs.google.com/presentation/d/1tr1e2hWnTE5UE-Muh4lDTU58QG2f3VathcCpHoyPtYQ/pub?start=false&loop=false&delayms=3000)
