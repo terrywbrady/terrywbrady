@@ -20,8 +20,13 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Upcoming Presentations
 
+### [UC Tech 2022](https://uctech.ucsd.edu/)
+- Implementing System Health Assertions Spanning Multiple Microservices - Reinvigorating a Decade Old System (co-presenter)
 
 # Presentation Notes
+
+### [Open Repositories 2022](https://or2022.openrepositories.org/) - Jun 2022
+- [Creating a Common Understanding of Your Repository State - Testing Assertions About Your Repository](https://docs.google.com/presentation/d/e/2PACX-1vQhf2el0iyId1lZqtv1B3NrhGAkUdlAqKMoiP_LIc2S7753B-fsBWC19Umb8LOQgbo86_Xx4tG0Qb97/pub?start=false&loop=false&delayms=3000)
 
 ### [UC Libraries Forum 2021](https://wiki.library.ucsf.edu/display/UCLF/UC+Libraries+Forum+Home) - Oct 2021
 - Workshop: Getting Started with Docker: Images, Containers and Simple Orchestration
