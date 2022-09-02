@@ -20,11 +20,11 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Upcoming Presentations
 
+# Presentation Notes
+
 ### [Docker Community All Hands - Sep 2022](https://www.docker.com/events/community-all-hands)
 - [Integration Testing your legacy java microservice with docker-maven-plugin](https://docs.google.com/presentation/d/e/2PACX-1vSPl5e8yYgIW_dX5CANSS11RevOUUJYX4HANNNjuFDxwGqTHOt9JOC7jVBaQrnsV6sBxApVIfO2sDoa/pub?start=false&loop=false&delayms=3000)
   - [Presentation Video](https://www.youtube.com/watch?v=1KVgXbylayo&list=PLkA60AVN3hh-NPCBz7ouTEkKCwnT4cGXZ)
-
-# Presentation Notes
 
 ### [UC Tech 2022](https://uctech.ucsd.edu/) - Aug 2022
 - [Implementing System Health Assertions Spanning Multiple Microservices - Reinvigorating a Decade Old System](https://docs.google.com/presentation/d/e/2PACX-1vQidsTnULBHJ8d2kIOOQuYrKE6k0EBZyZucRIuGBqh0TOCV1ujff9P-ErAwrGRY5ih7jJMYFQ4XdKt0/pub?start=false&loop=false&delayms=3000) (co-presenter)
