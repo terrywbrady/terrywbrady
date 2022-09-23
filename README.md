@@ -28,6 +28,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 ### [UC Tech 2022](https://uctech.ucsd.edu/) - Aug 2022
 - [Implementing System Health Assertions Spanning Multiple Microservices - Reinvigorating a Decade Old System](https://docs.google.com/presentation/d/e/2PACX-1vQidsTnULBHJ8d2kIOOQuYrKE6k0EBZyZucRIuGBqh0TOCV1ujff9P-ErAwrGRY5ih7jJMYFQ4XdKt0/pub?start=false&loop=false&delayms=3000) (co-presenter)
+  - [Presentation Recording](https://mediaspace.ucsd.edu/media/Implementing+System+Health+Assertions+Spanning+Multiple+Microservices+Reinvigorating+a+Decade+Old+System/1_iv4k7hq1)
 
 ### [Open Repositories 2022](https://or2022.openrepositories.org/) - Jun 2022
 - [Creating a Common Understanding of Your Repository State - Testing Assertions About Your Repository](https://docs.google.com/presentation/d/e/2PACX-1vQhf2el0iyId1lZqtv1B3NrhGAkUdlAqKMoiP_LIc2S7753B-fsBWC19Umb8LOQgbo86_Xx4tG0Qb97/pub?start=false&loop=false&delayms=3000)
