@@ -97,9 +97,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 - [Presentation Export](https://github.com/terrywbrady/CldAws230/blob/master/presentation/PITCHME.pptx?raw=true)
 
 ### ArchivesSpace Online Forum - Mar 2019
-- [Linking ArchivesSpace Hierarchy to DSpace Digital Objects](https://github.com/
-
--University-Libraries/File-Analyzer/wiki/Archival-Object-Workflows)
+- [Linking ArchivesSpace Hierarchy to DSpace Digital Objects](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Archival-Object-Workflows)
   - [Panel Overview](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/824115242/Session+Descriptions+and+Speaker+Biographies#SessionDescriptionsandSpeakerBiographies-Integrations)
   - http://bit.ly/as2dspace
 
