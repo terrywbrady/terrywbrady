@@ -23,6 +23,9 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Presentation Notes
 
+### Library of Congress Designing Storage Architectures Meeting, 2024
+- [Presentation: Promoting Visibility into Collections through Object Analysis](https://docs.google.com/presentation/d/e/2PACX-1vSEzvh2cKjdirkx16I6AqS_P50aE9l0AezfN6Y0c7XHa3OdrAqB-HrWvVuQ02waeew6FPze9oPPvjUu/pub?start=false&loop=false&delayms=3000) (co-presenter)
+
 ### [Docker Community All Hands - Sep 2022](https://www.docker.com/events/community-all-hands)
 - [Integration Testing your legacy java microservice with docker-maven-plugin](https://docs.google.com/presentation/d/e/2PACX-1vSPl5e8yYgIW_dX5CANSS11RevOUUJYX4HANNNjuFDxwGqTHOt9JOC7jVBaQrnsV6sBxApVIfO2sDoa/pub?start=false&loop=false&delayms=3000)
   - [Presentation Video](https://www.youtube.com/watch?v=1KVgXbylayo&list=PLkA60AVN3hh-NPCBz7ouTEkKCwnT4cGXZ)
