@@ -23,7 +23,7 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Presentation Notes
 
-### Library of Congress Designing Storage Architectures Meeting, 2024
+### Library of Congress [Designing Storage Architectures Meeting, 2024](https://digitalpreservation.gov/meetings/storage24.html)
 - [Presentation: Promoting Visibility into Collections through Object Analysis](https://docs.google.com/presentation/d/e/2PACX-1vSEzvh2cKjdirkx16I6AqS_P50aE9l0AezfN6Y0c7XHa3OdrAqB-HrWvVuQ02waeew6FPze9oPPvjUu/pub?start=false&loop=false&delayms=3000) (co-presenter)
 
 ### [Docker Community All Hands - Sep 2022](https://www.docker.com/events/community-all-hands)
