@@ -21,13 +21,12 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 
 # Upcoming Presentations
 
+# Presentation Notes
+
 ### [UCTech 2024](https://uctech2024.ucdavis.edu/tentative-conference-program-and-presentations) - Oct 2024
 
 - [Adopting Monthly Operational Review Meetings as a Learning Exercise](https://merritt.uc3dev.cdlib.org/present/monthly_ops/demo.html#/) 
 - [OpenSearch For the Productivity Win; Fostering Adoption Across Teams](https://merritt.uc3dev.cdlib.org/present/opensearch/README.html#/) (co-present)
-
-
-# Presentation Notes
 
 ### Library of Congress [Designing Storage Architectures Meeting, 2024](https://digitalpreservation.gov/meetings/storage24.html) - Apr 2024
 - [Presentation: Promoting Visibility into Collections through Object Analysis](https://docs.google.com/presentation/d/e/2PACX-1vSEzvh2cKjdirkx16I6AqS_P50aE9l0AezfN6Y0c7XHa3OdrAqB-HrWvVuQ02waeew6FPze9oPPvjUu/pub?start=false&loop=false&delayms=3000) (co-presenter)
