@@ -5,14 +5,12 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 - [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
 - [Short Bio](ShortBio.md)
 
-# Open Source Projects
+# Key Projects
 - California Digital Library - University of California Curation Center (UC3)
   - [Merritt System](https://github.com/CDLUC3/mrt-doc)
   - [Docker Tutorial](https://cdluc3.github.io/docker-tutorial/)
   - [OpenSearch Tutorial](https://github.com/CDLUC3/opensearch-tutorial/blob/main/README.md)
   - [Merritt Docker Stack](https://github.com/CDLUC3/merritt-docker)
-  - [Merritt Admin Tool - Lambda Query Tool](https://github.com/CDLUC3/mrt-admin-lambda)
-  - [UC3 Code Repositories](https://github.com/cdluc3)
 - Georgetown University Library
   - [DSpace](https://github.com/DSpace/DSpace)
 - National Archives and Records Administration Projects
