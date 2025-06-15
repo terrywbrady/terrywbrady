@@ -18,13 +18,13 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
   - [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
 # Upcoming Presentations
-### [UCTech 2025](https://uctech2025.ucr.edu/sessions/journey-devops-start-your-build) - Oct 2025
+### [UCTech 2025](https://uctech2025.ucr.edu/sessions/journey-devops-start-your-build) - Jun 2025
 - [On the Journey to DevOps, Start with Your Build](https://merritt.uc3dev.cdlib.org/present/devops_build/README.html#/)
+
+# Presentation Notes
 
 ### [Open Repositories 2025](https://www.conftool.net/or2025/sessions.php) - Jun 2025
 - [Repository Insights with OpenSearch](https://ucop.box.com/s/19k371lm82plf5w5q8v8mpix5xyo5o2e)
-
-# Presentation Notes
 
 ### [UCTech 2024](https://uctech2024.ucdavis.edu/tentative-conference-program-and-presentations) - Oct 2024
 
